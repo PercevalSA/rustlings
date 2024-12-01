@@ -19,6 +19,5 @@ fn main() {
     println!("solve the exercises. Good luck!");
     println!();
     println!("The file of this exercise is `exercises/00_intro/intro1.rs`. Have a look!");
-    println!("The current exercise path will be always shown under the progress bar.");
-    println!("You can click on the path to open the exercise file in your editor.");
+    println!("Bonjour je suis Perceval")
 }
