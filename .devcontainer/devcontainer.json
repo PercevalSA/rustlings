@@ -11,6 +11,8 @@
 			"type": "volume"
 		}
 	],
+	"postCreateCommand": "cargo install rustlings",
+	"postStartCommand": "rustlings",
 	"customizations": {
 		"vscode": {
 			"editor.formatOnSave": true,
